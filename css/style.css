@@ -1,0 +1,350 @@
+.zag {
+width: 1920px;
+height: 785px;
+
+background: url(image.png);
+    
+}
+
+.nav {
+    display: flex;
+    margin-top: -750px;
+    margin-left: 349px;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    color: black;
+    font-size: 14px;
+}
+
+ul,li {
+    display: block;
+}
+
+
+.menu {
+    display: flex;
+    margin-top: -20px;
+    margin-left: 1170px;
+    margin-right: 618px;
+}
+
+.menu li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    
+    font-size: 14px;
+    color: black;
+}
+
+.menu li {
+    margin-right: 45px;
+}
+
+.wor {
+    margin-top: 242px;
+    margin-left: 285px;
+    font-size: 23px;
+    
+}
+
+.block {
+
+  margin-left: 269px;
+    margin-top: 26px;
+    font-size: 20px;
+    margin-right: 49px;
+}
+
+.rom {
+   
+    margin-left: 0px;
+    margin-top: 20px;
+    font-size: 19px;
+    
+}
+
+.mem {
+    margin-left: 370px;
+    margin-top: -70px;
+}
+
+.war {
+    margin-left: 370px;
+    margin-top: 20px;
+}
+
+.galary {
+    width: 24px;
+    height: 24px;
+    margin-top: -83px;
+    margin-left: 280px
+}
+
+.lag {
+    margin-left: 280px;
+    margin-top: 20px;
+}
+
+.ril {
+    margin-left: 645px;
+    margin-top: -75px;
+}
+
+.gal {
+    margin-left: 645px;
+    margin-top: 18px;
+}
+
+.gradient {
+    position: absolute;
+width: 345px;
+height: 60px;
+left: 280px;
+top: 495px;
+    background-image: linear-gradient(270deg, #92C1FB 0%, #4A74F6 100%);
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    
+   
+    
+}
+
+.pa {
+    margin-top: 10px;
+    margin-left: 70px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.image {
+    
+position: absolute;
+left: 1321px;
+top: 326px;
+
+    
+}
+
+.rectangle {
+    width: 335px;
+    height: 132px;
+    margin-left: 450px;
+    margin-top: 364px;
+    background: #D72034;
+    border-radius: 36.5px;
+}
+
+.imag {
+    width: 243px;
+    height: 47px;
+    margin-left: 496px;
+    margin-top: -110px;
+    background: url(image.png);
+    
+}
+
+#rectangle {
+    width: 665px;
+    height: 760px;
+    margin-top: 10px;
+    margin-left: 285px;
+    background:  #FFFFFF;
+    box-shadow: 0px 10px 30px #F1F3F4;
+border-radius: 50px
+}
+
+.font {
+    width: 367px;
+    height: 51px;
+    margin-top: -750px;
+    margin-left: 434px;
+    font-size: 26px;
+    
+}
+
+.size {
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: #436BE9;
+}
+
+.foot {
+    
+    width: 461px;
+height: 120px;
+    font-size: 18px;
+}
+
+.text {
+    width: 461px;
+height: 120px;
+    font-size: 19px;
+}
+
+.kek {
+    width: 461px;
+height: 131px;
+    font-size: 18.5px;
+}
+
+.img {
+    width: 81px;
+height: 81px;
+    margin-left: 341px;
+    margin-top: 70px;
+}
+
+.rep {
+
+    margin-top: 55px;
+}
+
+.im {
+ margin-top: 62px;
+    
+}
+
+.block_1 {
+  position: absolute;
+width: 335px;
+height: 132px;
+left: 1135px;
+top: 810px;
+background: #436BE9;
+border-radius: 36.5px;
+    
+}
+
+.block_2 {
+    position: absolute;
+width: 665px;
+height: 760px;
+left: 970px;
+top: 885px;
+background: #FFFFFF;
+box-shadow: 0px 10px 30px #F1F3F4;
+border-radius: 50px;
+    
+}
+
+.ha {
+position: absolute;
+left: 1157px;
+top: 880px;
+    font-size: 28px;
+    
+}
+
+.fi {
+margin-left: -100px;
+    margin-top: 0px;
+    font-size: 20px;
+    color: #436BE9;
+}
+
+.reh {
+    
+
+width: 461px;
+height: 187px;
+margin-left: -40px;
+margin-top: 43px;
+
+font-size: 18.5px;
+
+    
+}
+
+.mir {
+    
+width: 461px;
+height: 120px;
+margin-left: -40px;
+margin-top: 31px;
+font-size: 19px;
+
+}
+
+.mar {
+    
+width: 461px;
+height: 109px;
+margin-left: -40px;
+    margin-top: 53px;
+
+font-size: 19px;
+    
+}
+
+.images {
+   position: absolute;
+margin-left: 1027px;
+margin-top: -35px;
+    
+    background: url(aspro.png);
+}
+
+.ram {
+    position: absolute;
+margin-left: 1027px;
+    margin-top: 147px;
+
+background: url(Code_perspective_matte.png);
+
+}
+
+.ira {
+    position: absolute;
+    margin-left: 1027px;
+    margin-top: 321px;
+}
+
+.qo {
+ position: absolute;
+    margin-left: 1220px;
+    margin-top: -330px;
+    color: 
+#FFFFFF;
+    font-size: 24px;
+}
+
+.aoz {
+   position: absolute;
+left: 150%;
+right: 65.09%;
+top: 0%;
+
+background: #FFFFFF;
+    
+}
+
+.lq {
+    position: absolute;
+left: 300%;
+right: 43.87%;
+top: 0%;
+
+}
+
+.and {
+    
+    
+position: absolute;
+left: 450%;
+top: 0%;
+
+}
+
+.wet {
+    position: absolute;
+left: 570%;
+top: 0%;
+
+}
+
+
